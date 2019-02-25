@@ -8,6 +8,7 @@ This repository creates a full fledged cloud architecture [Will be using Microso
 
 This solution will be used to 
 1) monitor the devices remotely by capturing the data from the devices. 
+2) Management of devices to add/remove and update devices and configuration.
 2) Enable communication from backend to device so that the devices can be controlled remotely
 3) Triggers and alarms can be set so that devices which are malfuncting or going to malfunction can be identified.
 4) A user interface will be provided to display all the devices information on a map. 
